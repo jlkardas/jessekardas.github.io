@@ -2,6 +2,8 @@
 
 ![Profile](https://avatars0.githubusercontent.com/u/31512552?s=460&u=b87861498f8b367b5e305b4f45440eb9614e6fd1&v=4)
 
+[LinkedIn Profile](https://www.linkedin.com/in/jesse-kardas/)
+
 ## About
 I am a rising senior at Lehigh University pursuing a degree in Computer Science & Business. I am interested in software development and have worked in the past as a freelance full stack developer creating websites for local small businesses.
 
