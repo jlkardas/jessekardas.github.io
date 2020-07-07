@@ -9,11 +9,21 @@ I am a rising senior at Lehigh University pursuing a degree in Computer Science 
 
 I am taking this class because I want to know more about how data is translated and interpreted to create meaningful, compelling visual storylines. I am excited at the prospect of creating my own data stories and can't wait to see where it takes me.
 
-## Lehigh Enrollment Spring 2020
+## Lehigh Undergraduate Enrollment Spring 2020
+### Pie Chart
 This pie chart was created using Datawrapper as a course project of COMM 165, Data Storytelling. It shows the undergraduate enrollment in the different colleges and programs at Lehigh University for Spring 2020. The chart shows that Engineering & Applied Science has the largest enrollment, followed by College of Business & Economics. The data used to create the chart can be found [here](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit#gid=0).
 
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-WDu5D" src="https://datawrapper.dwcdn.net/WDu5D/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="640"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+### Bar Chart
+This bar chart shows the undergraduate enrollment in the colleges and programs at Lehigh University in Spring 2020. Engineering & Applied Science has the largest enrollment followed by Business & Economics. The data used to create the chart can be found [here](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit#gid=0).
+
+<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Bar Chart" id="datawrapper-chart-qH5Ll" src="https://datawrapper.dwcdn.net/qH5Ll/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="252"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## Adults Without a Bank Account Owning a Mobile Phone
+This pie chart represents the total number of adults, worldwide, who do not maintain a checking or savings account but do own a mobile phone. This data could be used to infer where the adoption of cryptocurrency would be most impactful. The data used to create the chart can be found [here](https://globalfindex.worldbank.org/)
 
 <iframe title="  Adults Without a Bank Account Owning a Mobile Phone 2017 (in millions)" aria-label="chart" id="datawrapper-chart-3Jd6z" src="https://datawrapper.dwcdn.net/3Jd6z/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="710"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
