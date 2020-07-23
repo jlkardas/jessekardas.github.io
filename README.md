@@ -32,4 +32,4 @@ This pie chart represents the total number of adults, worldwide, who do not main
 
 ## Stablecoin Popularity by Region
 
-<iframe src="https://arcg.is/08C14u">
+<iframe src="https://arcg.is/08C14u" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="710">
