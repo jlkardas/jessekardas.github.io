@@ -31,5 +31,6 @@ This pie chart represents the total number of adults, worldwide, who do not main
 </script>
 
 ## Stablecoin Popularity by Region
+The data represented in this map was sourced using a Python script from the official Twitter API. The map portrayed below specifically contains locations across the United States where tweets were created (from 7/17/20 to 7/22/20) containing the hashtag "stablecoin." As the map demonstrates, the majority of tweets came from New York, Los Angeles, and San Francisco. This anomoly in the data is to be expected, as the majority of stablecoins in development are located in these areas (ex. Silicon Valley). It would follow, that the communities discussing stablecoins would fall into the regions they are being developed in, especially as this technology is relatively new. As the adoption rate and popularity of stablecoins continues to grow not only in the United States but also in other countries around the world, this map is expected to show less concentrated hotspots and a more even distribution of tweets containing '#stablecoin'.
 
 <iframe src="https://arcg.is/08C14u" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="710">
