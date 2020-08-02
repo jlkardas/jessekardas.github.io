@@ -41,6 +41,7 @@ The data represented in this map was sourced using a Python script from the offi
 
 Both the heat map and bar chart below were created using Tableu and data made publicly available from [Yelp](https://www.yelp.com/dataset). They depict both the locations from which Yelp reviews for Dunkin' and Starbucks originated around the world, as well as the average customer perception of each business per location using the average customer rating. This information could provide valuable market insight on consumer preferences regarding both of these businesses across various regions and demographics.
 
+
 <div class="tableauPlaceholder" id="viz1596242915796" style="position: relative;">
   <noscript
     ><a href="#"
@@ -73,6 +74,7 @@ Both the heat map and bar chart below were created using Tableu and data made pu
   scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 <div class="tableauPlaceholder" id="viz1596242529010" style="position: relative;">
   <noscript
@@ -109,8 +111,10 @@ Both the heat map and bar chart below were created using Tableu and data made pu
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 ## 2020 Presidential Election Analysis
 The maps below were generated using Tableau with data sourced from both the Twitter API and [MIT's official repository of the 2016 presidential election popular vote results](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ). The first map represents the location of tweets containing either the hastag #CreepyJoe or #JoeBidenLandslide. These hashtags generally represent the average public perception of the 2020 presidential candidate Joe Biden by county across the United States. The second map represents the actual ratio of popular votes for the 2016 presidential election candidates (Donald Trump and Hillary Clinton). By comparing the data represented in each of these maps, it is clear that the majority of tweets with positive sentiment towards Joe Biden are originating in regions that primarily voted for Hillary Clinton in 2016. Likewise, regions expressing negative sentiment towards Joe Biden primarily originate in areas that voted for Trump.
+
 
 <div class="tableauPlaceholder" id="viz1596410359047" style="position: relative;">
   <noscript
@@ -146,6 +150,7 @@ The maps below were generated using Tableau with data sourced from both the Twit
   scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 <div class="tableauPlaceholder" id="viz1596410454645" style="position: relative;">
   <noscript
