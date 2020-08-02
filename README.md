@@ -20,12 +20,15 @@ This pie chart was created using Datawrapper as a course project of COMM 165, Da
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-WDu5D" src="https://datawrapper.dwcdn.net/WDu5D/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="638"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<br />
+
 ### Bar Chart
 This bar chart shows the undergraduate enrollment in the colleges and programs at Lehigh University in Spring 2020. Engineering & Applied Science has the largest enrollment followed by Business & Economics. The data used to create the chart can be found [here](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit#gid=0).
 
 <iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Bar Chart" id="datawrapper-chart-qH5Ll" src="https://datawrapper.dwcdn.net/qH5Ll/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="252"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<br />
 
 ## Adults Without a Bank Account Owning a Mobile Phone
 
@@ -34,6 +37,7 @@ This pie chart represents the total number of adults, worldwide, who do not main
 <iframe title="Adults Without a Bank Account Owning a Mobile Phone 2017 (in millions)" aria-label="chart" id="datawrapper-chart-3Jd6z" src="https://datawrapper.dwcdn.net/3Jd6z/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="706"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<br />
 
 ## Stablecoin Popularity by Region
 
@@ -41,6 +45,7 @@ The data represented in this map was sourced using a Python script from the offi
 
 <iframe src="https://arcg.is/08C14u" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="710"></iframe>
 
+<br />
 
 ## Yelp Reviews for Starbucks and Dunkin'
 
@@ -116,6 +121,7 @@ Both the heat map and bar chart below were created using Tableu and data made pu
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+<br />
 
 ## 2020 Presidential Election Analysis
 The maps below were generated using Tableau with data sourced from both the Twitter API and [MIT's official repository of the 2016 presidential election popular vote results](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ). The first map represents the location of tweets containing either the hastag #CreepyJoe or #JoeBidenLandslide. These hashtags generally represent the average public perception of the 2020 presidential candidate Joe Biden by county across the United States. The second map represents the actual ratio of popular votes for the 2016 presidential election candidates (Donald Trump and Hillary Clinton). By comparing the data represented in each of these maps, it is clear that the majority of tweets with positive sentiment towards Joe Biden are originating in regions that primarily voted for Hillary Clinton in 2016. Likewise, regions expressing negative sentiment towards Joe Biden primarily originate in areas that voted for Trump.
