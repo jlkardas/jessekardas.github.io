@@ -12,7 +12,7 @@ This Github.io profile was created for COMM 165, Data Storytelling. I took this 
 
 ---
 
-# The Rise of Stablecoin
+# The Rise of $tablecoin
 
 In many regions around the world, individuals do not have sufficient access to a trustworthy fiduciary institution to process their financial transactions and keep their assets safe and secure. However, in the modern age, the ubiquity of mobile devices has enabled millions of people to communicate with one another through the internet. Moreover, the development of decentralized mobile applications in coordination with the rise of blockchain technology now enables anyone with a mobile device to transact with anyone else without the need for a potentially untrustworthy third party organization. Following the advancement of stablecoins, a development of cryptocurrency and blockchain technology, traditionally unbanked and underbanked regions around the world now have access to a fully decentralized, secure, transparent store of value.
 
