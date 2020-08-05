@@ -6,46 +6,30 @@
 
 ## About
 
-I am a rising senior at Lehigh University pursuing a degree in Computer Science & Business. I am interested in software development and have worked in the past as a freelance full stack developer creating websites for local small businesses.
+Undergraduate senior at Lehigh University pursuing a degree in Computer Science & Business. Interested in blockchain technology and the development of decentralized financial platforms.
 
-I am taking this class because I want to know more about how data is translated and interpreted to create meaningful, compelling visual storylines. I am excited at the prospect of creating my own data stories and can't wait to see where it takes me.
+This Github.io profile was created for COMM 165, Data Storytelling. I took this course because I am interested in the various methods that data is effectively aggregated, analyzed, and ultimately portrayed to global audiences. I belive that data storytelling has the potential to make a great impact on communities around the world. As I develop this portfolio, I hope to gain insight on the most effective means of modern journalism, storytelling, and translating data into meaningful thought and action.
 
 ---
 
-## Lehigh Undergraduate Enrollment Spring 2020
-
-### Pie Chart
-This pie chart was created using Datawrapper as a course project of COMM 165, Data Storytelling. It shows the undergraduate enrollment in the different colleges and programs at Lehigh University for Spring 2020. The chart shows that Engineering & Applied Science has the largest enrollment, followed by College of Business & Economics. The data used to create the chart can be found [here](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit#gid=0).
-
-<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-WDu5D" src="https://datawrapper.dwcdn.net/WDu5D/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="638"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
-
-<br />
-
-### Bar Chart
-This bar chart shows the undergraduate enrollment in the colleges and programs at Lehigh University in Spring 2020. Engineering & Applied Science has the largest enrollment followed by Business & Economics. The data used to create the chart can be found [here](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit#gid=0).
-
-<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Bar Chart" id="datawrapper-chart-qH5Ll" src="https://datawrapper.dwcdn.net/qH5Ll/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="252"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
-
-<br />
-
 # The Rise of Stablecoin
 
-In many regions around the world, individuals may not have sufficient access to a trustworthy bank or other fiduciary institution to process their transactions and keep their assets safe. However, the ubiquity of mobile devices enables millions of people to interact with one another through the internet. With the advancement of stablecoins, a development of cryptocurrency and blockchain technology, traditionally underbanked regions and individuals around the world will have an opportunity to place their trust in a fully decentralized store of value.
+In many regions around the world, individuals do not have sufficient access to a trustworthy fiduciary institution to process their financial transactions and keep their assets safe and secure. However, in the modern age, the ubiquity of mobile devices has enabled millions of people to communicate with one another through the internet. Moreover, the development of decentralized mobile applications in coordination with the rise of blockchain technology now enables anyone with a mobile device to transact with anyone else without the need for a potentially untrustworthy third party organization. Following the advancement of stablecoins, a development of cryptocurrency and blockchain technology, traditionally unbanked and underbanked regions around the world now have access to a fully decentralized, secure, transparent store of value.
 
-## Adults Without a Bank Account Owning a Mobile Phone
+## Regions containing a Significant Population of Underbanked Adults Owning a Mobile Phone
 
-This chart represents the total distribution of adults per country, worldwide, who do not maintain a checking or savings account but do own a mobile phone. The data used to create the chart can be found [here](https://globalfindex.worldbank.org/)
+One of the biggest impediments for individuals seeking long-term financial stability in traditionally unbanked or underbanked regions is lack of direct access to or confidence in local banks and other fiduciary institutions. Moreover, the only requirement to engage with stablecoin platforms is a mobile device and an internet connection. In order to gauge regions where stablecoins would have the greatest positive impact for the most amount of people, it is important to look at these locations where individuals deal with economic hardship and/or lack of suitable financial infrastructure but have access to a mobile phone.
+
+The pie chart below represents the total distribution of adults per country, worldwide, who do not maintain a checking or savings account but do own a mobile phone. China and India appear to be the most significant regions with a large population of unbanked or underbanked individuals also owning a mobile phone. The data used to create the chart can be found [here](https://globalfindex.worldbank.org/)
 
 <iframe title="Adults Without a Bank Account Owning a Mobile Phone 2017 (in millions)" aria-label="chart" id="datawrapper-chart-3Jd6z" src="https://datawrapper.dwcdn.net/3Jd6z/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="706"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <br />
 
-## Stablecoin Popularity by Region
+## Stablecoin Popularity in America
 
-The data represented in this map was sourced using a Python script from the official Twitter API. The map portrayed below specifically contains locations across the United States where tweets were created (from 7/17/20 to 7/22/20) containing the hashtag "stablecoin." As the map demonstrates, the majority of tweets came from New York, Los Angeles, and San Francisco. This anomoly in the data is to be expected, as the majority of stablecoins in development are located in these areas (ex. Silicon Valley). It would follow, that the communities discussing stablecoins would fall into the regions they are being developed in, especially as this technology is relatively new. As the adoption rate and popularity of stablecoins continues to grow not only in the United States but also in other countries around the world, this map is expected to show less concentrated hotspots and a more even distribution of tweets containing '#stablecoin'.
+The data represented in this map was sourced using a Python script from the official [Twitter API](https://developer.twitter.com/en/docs). The map portrayed below specifically contains locations across the United States where tweets were created (from 7/17/20 to 7/22/20) containing the hashtag "stablecoin." As the map demonstrates, the majority of tweets came from New York, Los Angeles, and San Francisco. This anomoly in the data is to be expected, as the majority of stablecoins in development are located in these areas (ex. Silicon Valley). It would follow that the communities discussing stablecoins would fall into the regions they are being developed in, especially as this technology is relatively new. As the adoption rate and popularity of stablecoins continues to grow not only in the United States but also in other countries around the world, this map is expected to show less concentrated hotspots and a more even distribution of tweets containing '#stablecoin'.
 
 <iframe src="https://arcg.is/08C14u" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="710"></iframe>
 
@@ -59,7 +43,7 @@ The virtual tour displayed below was created using Google maps and 360 panoramic
 
 <br />
 
-## Yelp Reviews for Starbucks and Dunkin'
+## Customer Perception of Starbucks & Dunkin'
 
 Both the heat map and bar chart below were created using Tableu and data made publicly available from [Yelp](https://www.yelp.com/dataset). They depict both the locations from which Yelp reviews for Dunkin' and Starbucks originated around the world, as well as the average customer perception of each business per location using the average customer rating. This information could provide valuable market insight on consumer preferences regarding both of these businesses across various regions and demographics.
 
@@ -162,4 +146,24 @@ The maps below were generated using Tableau with data sourced from both the Twit
   var scriptElement = document.createElement("script");
   scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+--
+
+# COMM-165 Example Projects
+
+## Lehigh Undergraduate Enrollment Spring 2020
+
+### Pie Chart
+This pie chart was created using Datawrapper as a course project of COMM 165, Data Storytelling. It shows the undergraduate enrollment in the different colleges and programs at Lehigh University for Spring 2020. The chart shows that Engineering & Applied Science has the largest enrollment, followed by College of Business & Economics. The data used to create the chart can be found [here](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit#gid=0).
+
+<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="chart" id="datawrapper-chart-WDu5D" src="https://datawrapper.dwcdn.net/WDu5D/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="638"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+<br />
+
+### Bar Chart
+This bar chart shows the undergraduate enrollment in the colleges and programs at Lehigh University in Spring 2020. Engineering & Applied Science has the largest enrollment followed by Business & Economics. The data used to create the chart can be found [here](https://docs.google.com/spreadsheets/d/1dFnkn8Sm_aJHxFLC6DD8W4mIthVDjTIz6A0h-_kE2lA/edit#gid=0).
+
+<iframe title="Lehigh Undergraduate Enrollment Spring 2020" aria-label="Bar Chart" id="datawrapper-chart-qH5Ll" src="https://datawrapper.dwcdn.net/qH5Ll/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="252"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
