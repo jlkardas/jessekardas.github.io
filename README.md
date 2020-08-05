@@ -30,20 +30,16 @@ This bar chart shows the undergraduate enrollment in the colleges and programs a
 
 <br />
 
+# The Rise of Stablecoin
+
+In many regions around the world, individuals may not have sufficient access to a trustworthy bank or other fiduciary institution to process their transactions and keep their assets safe. However, the ubiquity of mobile devices enables millions of people to interact with one another through the internet. With the advancement of stablecoins, a development of cryptocurrency and blockchain technology, traditionally underbanked regions and individuals around the world will have an opportunity to place their trust in a fully decentralized store of value.
+
 ## Adults Without a Bank Account Owning a Mobile Phone
 
-This pie chart represents the total number of adults, worldwide, who do not maintain a checking or savings account but do own a mobile phone. This data could be used to infer where the adoption of cryptocurrency would be most impactful. The data used to create the chart can be found [here](https://globalfindex.worldbank.org/)
+This chart represents the total distribution of adults per country, worldwide, who do not maintain a checking or savings account but do own a mobile phone. The data used to create the chart can be found [here](https://globalfindex.worldbank.org/)
 
 <iframe title="Adults Without a Bank Account Owning a Mobile Phone 2017 (in millions)" aria-label="chart" id="datawrapper-chart-3Jd6z" src="https://datawrapper.dwcdn.net/3Jd6z/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="706"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
-<br />
-
-## Google Virtual Tour
-
-The virtual tour displayed below was created using Google maps and 360 panoramic images to create a 3D representation of a trail in the woods behind my house. This virtual tour was inspired by the quarantine caused by coronavirus and demonstrates how many people across the country can easily improve their mental health and mood simply by going outside, getting some fresh air, and surrounding themselves in nature.
-
-<iframe width="100%" height="480px" src="https://poly.google.com/view/fV9HVPjOafd/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 <br />
 
@@ -52,6 +48,14 @@ The virtual tour displayed below was created using Google maps and 360 panoramic
 The data represented in this map was sourced using a Python script from the official Twitter API. The map portrayed below specifically contains locations across the United States where tweets were created (from 7/17/20 to 7/22/20) containing the hashtag "stablecoin." As the map demonstrates, the majority of tweets came from New York, Los Angeles, and San Francisco. This anomoly in the data is to be expected, as the majority of stablecoins in development are located in these areas (ex. Silicon Valley). It would follow, that the communities discussing stablecoins would fall into the regions they are being developed in, especially as this technology is relatively new. As the adoption rate and popularity of stablecoins continues to grow not only in the United States but also in other countries around the world, this map is expected to show less concentrated hotspots and a more even distribution of tweets containing '#stablecoin'.
 
 <iframe src="https://arcg.is/08C14u" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="710"></iframe>
+
+<br />
+
+## Google Virtual Tour
+
+The virtual tour displayed below was created using Google maps and 360 panoramic images to create a 3D representation of a trail in the woods behind my house. This virtual tour was inspired by the quarantine caused by coronavirus and demonstrates how many people across the country can easily improve their mental health and mood simply by going outside, getting some fresh air, and surrounding themselves in nature.
+
+<iframe width="100%" height="480px" src="https://poly.google.com/view/fV9HVPjOafd/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 <br />
 
