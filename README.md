@@ -35,6 +35,8 @@ The data represented in this map was sourced using a Python script from the offi
 
 <br />
 
+--
+
 ## Google Virtual Tour
 
 The virtual tour displayed below was created using Google maps and 360 panoramic images to create a 3D representation of a trail in the woods behind my house. This virtual tour was inspired by the quarantine caused by coronavirus and demonstrates how many people across the country can easily improve their mental health and mood simply by going outside, getting some fresh air, and surrounding themselves in nature.
@@ -42,6 +44,8 @@ The virtual tour displayed below was created using Google maps and 360 panoramic
 <iframe width="100%" height="480px" src="https://poly.google.com/view/fV9HVPjOafd/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
 <br />
+
+--
 
 ## Customer Perception of Starbucks & Dunkin'
 
@@ -96,6 +100,8 @@ Both the heat map and bar chart below were created using Tableu and data made pu
 </script>
 
 <br />
+
+--
 
 ## 2020 Presidential Election Analysis
 The maps below were generated using Tableau with data sourced from both the Twitter API and [MIT's official repository of the 2016 presidential election popular vote results](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ). The first map represents the location of tweets containing either the hastag #CreepyJoe or #JoeBidenLandslide. These hashtags generally represent the average public perception of the 2020 presidential candidate Joe Biden by county across the United States. The second map represents the actual ratio of popular votes for the 2016 presidential election candidates (Donald Trump and Hillary Clinton). By comparing the data represented in each of these maps, it is clear that the majority of tweets with positive sentiment towards Joe Biden are originating in regions that primarily voted for Hillary Clinton in 2016. Likewise, regions expressing negative sentiment towards Joe Biden primarily originate in areas that voted for Trump.
