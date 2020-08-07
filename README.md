@@ -51,41 +51,7 @@ The virtual tour displayed below was created using Google maps and 360 panoramic
 
 Both the heat map and bar chart below were created using Tableu and data made publicly available from [Yelp](https://www.yelp.com/dataset). They depict both the locations from which Yelp reviews for Dunkin' and Starbucks originated around the world, as well as the average customer perception of each business per location using the average customer rating. This information could provide valuable market insight on consumer preferences regarding both of these businesses across various regions and demographics.
 
-<div class="tableauPlaceholder" id="viz1596831072700" style="position: relative;">
-  <noscript
-    ><a href="http:&#47;&#47;jlkardas.github.io"
-      ><img
-        alt=" "
-        src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Starbucksv_DunkinYelpReviewLocations&#47;Story1&#47;1_rss.png"
-        style="border: none;" /></a></noscript
-  ><object class="tableauViz" style="display: none;"
-    ><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-    <param name="embed_code_version" value="3" /> <param name="site_root" value="" /><param
-      name="name"
-      value="Starbucksv_DunkinYelpReviewLocations&#47;Story1" /><param
-      name="tabs"
-      value="no" /><param name="toolbar" value="yes" /><param
-      name="static_image"
-      value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;St&#47;Starbucksv_DunkinYelpReviewLocations&#47;Story1&#47;1.png" />
-    <param name="animate_transition" value="yes" /><param
-      name="display_static_image"
-      value="yes" /><param name="display_spinner" value="yes" /><param
-      name="display_overlay"
-      value="yes" /><param name="display_count" value="yes" /><param
-      name="language"
-      value="en" /><param name="filter" value="publish=yes"
-  /></object>
-</div>
-<script type="text/javascript">
-  var divElement = document.getElementById("viz1596831072700");
-  var vizElement = divElement.getElementsByTagName("object")[0];
-  vizElement.style.width = "1016px";
-  vizElement.style.height = "991px";
-  var scriptElement = document.createElement("script");
-  scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
-
+<div class='tableauPlaceholder' id='viz1596831555180' style='position: relative'><noscript><a href='http:&#47;&#47;jlkardas.github.io'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5W&#47;5WK48QWY9&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;5WK48QWY9' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;5W&#47;5WK48QWY9&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1596831555180');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 <br />
 
 ---
@@ -93,22 +59,19 @@ Both the heat map and bar chart below were created using Tableu and data made pu
 ## 2020 Presidential Election Analysis
 The maps below were generated using Tableau with data sourced from both the Twitter API and [MIT's official repository of the 2016 presidential election popular vote results](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ). The first map represents the location of tweets containing either the hastag #CreepyJoe or #JoeBidenLandslide. These hashtags generally represent the average public perception of the 2020 presidential candidate Joe Biden by county across the United States. The second map represents the actual ratio of popular votes for the 2016 presidential election candidates (Donald Trump and Hillary Clinton). By comparing the data represented in each of these maps, it is clear that the majority of tweets with positive sentiment towards Joe Biden are originating in regions that primarily voted for Hillary Clinton in 2016. Likewise, regions expressing negative sentiment towards Joe Biden primarily originate in areas that voted for Trump.
 
-<div class="tableauPlaceholder" id="viz1596831188539" style="position: relative;">
+<div class="tableauPlaceholder" id="viz1596831518790" style="position: relative;">
   <noscript
     ><a href="#"
       ><img
         alt=" "
-        src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;jo&#47;joe_biden_v_trump&#47;Story1&#47;1_rss.png"
+        src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;68&#47;68TBYDHK2&#47;1_rss.png"
         style="border: none;" /></a></noscript
   ><object class="tableauViz" style="display: none;"
     ><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-    <param name="embed_code_version" value="3" /> <param name="site_root" value="" /><param
-      name="name"
-      value="joe_biden_v_trump&#47;Story1" /><param name="tabs" value="no" /><param
-      name="toolbar"
-      value="yes" /><param
+    <param name="embed_code_version" value="3" />
+    <param name="path" value="shared&#47;68TBYDHK2" /> <param name="toolbar" value="yes" /><param
       name="static_image"
-      value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;jo&#47;joe_biden_v_trump&#47;Story1&#47;1.png" />
+      value="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;68&#47;68TBYDHK2&#47;1.png" />
     <param name="animate_transition" value="yes" /><param
       name="display_static_image"
       value="yes" /><param name="display_spinner" value="yes" /><param
@@ -119,7 +82,7 @@ The maps below were generated using Tableau with data sourced from both the Twit
   /></object>
 </div>
 <script type="text/javascript">
-  var divElement = document.getElementById("viz1596831188539");
+  var divElement = document.getElementById("viz1596831518790");
   var vizElement = divElement.getElementsByTagName("object")[0];
   vizElement.style.width = "1016px";
   vizElement.style.height = "991px";
@@ -127,6 +90,7 @@ The maps below were generated using Tableau with data sourced from both the Twit
   scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 <br />
 
